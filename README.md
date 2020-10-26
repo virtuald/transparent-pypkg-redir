@@ -23,6 +23,8 @@ Do you think this would be useful in your own project? Repurpose this in your
 own project by copying `rootpkg/oldpkg/__init__.py` and following the
 instructions.
 
+Requires Python 3.4+
+
 Author/License
 --------------
 
